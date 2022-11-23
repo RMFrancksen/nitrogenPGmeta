@@ -1,0 +1,35 @@
+study_Nr,author,country,es.id,c.mean_sr,c.n,c.sd,tr.nitrogen,tr.mean_sr,tr.n,tr.sd,defoliation_N,plot_size_m2,experiment_years,application,application_cat
+66,"Rotar et al, 2015",Romania,es_11,26.2,5,3.79,12.5,26.2,5,3.41,1,6,6,P,N_other
+184,"Samuil et al, 2013",Romania,es_24,14.5,2,0.5,24,20.33333333,3,4.189,1,20,6,manure,N_other
+66,"Rotar et al, 2015",Romania,es_10,26.2,5,3.79,25,27,5,4.3,1,6,6,P,N_other
+210,"Sammul et al, 2003",Estonia,es_27,99.5,6,7.135592,35,90,3,5.887841,1,300,3,P+K,N_other
+168,"Vidrih et al, 2009",Slovenia,es_20,23.83333333,6,4.16733328,50,20.33333333,3,1.527525232,2,9,3,P+K,N_other
+168,"Vidrih et al, 2009",Slovenia,es_22,25.5,4,1,50,29,4,1.414213562,3,9,3,P+K,N_other
+184,"Samuil et al, 2013",Romania,es_25,14.5,2,0.5,53.6,18.4,5,2.8,1,20,6,manure,N_other
+184,"Samuil et al, 2013",Romania,es_26,14.5,2,0.5,71.5,16,4,0.7,1,20,6,manure,N_other
+5,"Edwards et al, 2002",UK,es_1,14.8,3,3.08058436,80,9.966666667,3,1.6653328,0,150,13,N_only,N_only
+5,"Edwards et al, 2002",UK,es_2,18.83,3,4.384442192,80,13.46666667,3,4.867579823,1,150,13,N_only,N_only
+20,"Vintu et al, 2008",Romania,es_8,34,2,5.656854249,90,25.5,3,3.535533906,1,25,2,P+K+manure,N_other
+155,"Vintu et al, 2014",Romania,es_18,26.33333333,3,1.154700538,90,33,3,1,1,25,4,manure,N_other
+298,"Galka et al, 2005",Poland,es_29,24.6,4,3.278210894,90,19.36666667,6,6.211494721,2,42,35,P+K,N_other
+19,"Stybnarova et al, 2012",Czech Republic,es_3,23.875,1,2.420614591,100,17.625,1,1.798436821,2,200,8,P+K,N_other
+19,"Stybnarova et al, 2012",Czech Republic,es_4,20.25,1,2.487468593,100,15.875,1,1.363589014,3,200,8,P+K,N_other
+19,"Stybnarova et al, 2012",Czech Republic,es_5,15.375,1,1.932453104,100,16,1,1.658312395,4,200,8,P+K,N_other
+104,"Hejcman et al, 2007",Germany,es_12,32.6,5,4.15,100,31.8,5,3.36,1,15,64,P+K,N_other
+168,"Vidrih et al, 2009",Slovenia,es_21,23.83333333,6,4.16733328,100,20.66666667,3,7.371114796,2,9,3,P+K,N_other
+168,"Vidrih et al, 2009",Slovenia,es_23,25.5,4,1,100,27.5,2,3.535533906,3,9,3,P+K,N_other
+210,"Sammul et al, 2003",Estonia,es_28,99.5,6,7.135592,100,84.6667,3,0.942809,1,300,3,P+K,N_other
+20,"Vintu et al, 2008",Romania,es_9,34,2,5.656854249,110,26,2,2.828427125,1,25,2,P+K+manure,N_other
+114,"Benizri et al, 2005",France,es_13,4.68,3,0.4988,120,6.7,3,0.497,1,100,13,N_only,N_only
+155,"Vintu et al, 2014",Romania,es_16,26.33333333,3,1.154700538,120,32.66666667,3,2.516611478,1,25,4,manure,N_other
+155,"Vintu et al, 2014",Romania,es_19,26.33333333,3,1.154700538,135,33.33333333,3,1.527525232,1,25,4,manure,N_other
+20,"Vintu et al, 2008",Romania,es_6,34,2,5.656854249,140,29.5,3,3.535533906,1,25,2,P+K+manure,N_other
+154,"Oerlemans et al, 2007",Germany,es_14,25.36386,36,4.417568,160,16.74305188,36,4.301315341,1,25,16,P+K,N_other
+155,"Vintu et al, 2014",Romania,es_17,26.33333333,3,1.154700538,180,33.33333333,3,1.154700538,1,25,4,manure,N_other
+298,"Galka et al, 2005",Poland,es_30,24.6,4,3.278210894,180,12.3,4,2.150968774,2,42,35,P+K,N_other
+20,"Vintu et al, 2008",Romania,es_7,34,2,5.656854249,200,30.5,2,0.707106781,1,25,2,P+K+manure,N_other
+308,"Geijzendorffer et al, 2008",Ireland,es_31,10,2,0.141421356,225,6,3,0.816496581,1,7000,4,N_only,N_only
+345,"Joyce et al, 2001",Czech Republic,es_33,29.622,6,1.61666323,300,18.249,6,3.123099422,1,1.5,2,N_only,N_only
+154,"Oerlemans et al, 2007",Germany,es_15,25.36386,36,4.417568,320,14.52714613,36,3.384297596,1,25,16,P+K,N_other
+308,"Geijzendorffer et al, 2008",Ireland,es_32,10,2,0.141421356,390,7,3,0.816496581,1,7000,4,N_only,N_only
+345,"Joyce et al, 2001",Czech Republic,es_34,29.622,6,1.61666323,600,12.519,6,3.772214204,1,1.5,2,N_only,N_only
